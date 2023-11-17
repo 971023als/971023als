@@ -42,7 +42,9 @@
 ### 불면증 자가진단 웹 개발 💤
 - HTML![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - CSS![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- JavaScript, Java Server Page 기반
+- JavaScript![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- Eclipse ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+- Java Server Page 기반
 - 프로젝트 기간: 2022.4 ~ 2022.7
 - 역할: 웹 개발 팀원, 프론트엔드 및 백엔드 개발
 - 성과: 임상적 불면증 진단 및 좋은 습관 안내 사이트 개발
@@ -50,7 +52,9 @@
 [불면증 자가진단 웹 사이트](https://github.com/971023als/jsp)
 
 ### 제품판매 사이트 🛒
-- 기술: HTML, CSS, JavaScript,
+- HTML![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- CSS![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- JavaScript![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - Apache ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 - MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -66,9 +70,12 @@
 
 ### 보안 조치 자동화 🛡️
 - 리눅스 설정파일 취약점 자동화 도구 개발
+- 기술: Shell 스크립트(하) ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 - 프로젝트 기간: 2023.1 ~ 2023.2
 - 역할: 진단 스크립트 개발 및 조치, 복구 스크립트 검증
 - 성과: 주요통신기반시설 취약점 가이드 기반 개선
+
+  
 
 ### BoB SiMD 취약점 분석 및 개인정보 보호 진단
 - SiMD(Software in Medical device) 산업 환경 조성
