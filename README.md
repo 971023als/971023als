@@ -1,41 +1,41 @@
 # 안녕하세요, 이민형입니다. 👋
 
-컴퓨터공학과에서 웹 개발과 시큐어코딩을 공부하면서 보안 컨설팅에도 관심을 가지게 되었습니다.
+컴퓨터공학과 재학 중에 웹 개발과 시큐어코딩을 공부하며, 보안 컨설팅에도 관심을 가지고 있습니다.
 
 ## 🔎 Profile
 
 ### 자격증 📜
-- 리눅스마스터 2급 (2022.4.1)
-- 정보처리기사 (2022.9.2)
+- 리눅스마스터 2급 (2022.04.01)
+- 정보처리기사 (2022.09.02)
 - 네트워크 관리사 2급 (2022.12.13)
 - SAA-C03 (2022.02.25) [![AWS Certification Badge](https://img.shields.io/badge/AWS-Certification-blue)](https://www.credly.com/badges/9040d238-7e1d-4663-8a91-2c5319368d50/public_url)
 
-
 ### 학력 🏫
-- 한남대학교 컴퓨터공학과 2016.3 - 현재
+- 한남대학교 컴퓨터공학과 (2016.03 - 현재)
 
-### 교내 정보보호동아리 🛡️
-- 히스트(스터디 관리 담당) 2020.10 - 현재
+### 교내 활동 🛡️
+- 히스트 정보보호동아리, 스터디 관리 담당 (2020.10 - 현재)
 
 ## ⚒️ Skills
 
-**Hard Skills** 💻
-- PHP(하) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-- Java Server Pages(하) ![Java Server Pages](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white)
-- Shell 스크립트(하) ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-- JavaScript(하) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### Hard Skills 💻
+- PHP (초급) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+- Java Server Pages (초급) ![JSP](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white)
+- Shell 스크립트 (초급) ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- JavaScript (초급) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Soft Skills** 🌟
-- 커뮤니케이션(상)
-- 리더십(상)
-- 문제 해결 능력(상)
-- 스케줄링(중)
+### Soft Skills 🌟
+- 커뮤니케이션 (상)
+- 리더십 (상)
+- 문제 해결 능력 (상)
+- 스케줄링 (중)
 
-**Tools** 🛠️
-- Notion(중) ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
-- GitHub(하) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-- VS Code (하)![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- Eclipse(하) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+### Tools 🛠️
+- Notion (중급) ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
+- GitHub (초급) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+- VS Code (초급) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- Eclipse (초급) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+
 
 ## 👩🏻‍💻 프로젝트
 
