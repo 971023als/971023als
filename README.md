@@ -100,3 +100,6 @@
 📧 이메일: [971023als@naver.com](mailto:971023als@naver.com)
 🏠 주소: 대전 서구 도안동
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=971023als94&show_icons=true&theme=omni)
+
