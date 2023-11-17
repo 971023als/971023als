@@ -34,13 +34,15 @@
 **Tools** 🛠️
 - Notion(중)
 - GitHub(하)
-- VS Code (하)
+- VS Code (하)![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 - Eclipse(하)
 
 ## 👩🏻‍💻 프로젝트
 
 ### 불면증 자가진단 웹 개발 💤
-- HTML, CSS, JavaScript, Java Server Page 기반
+- HTML![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- CSS![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- JavaScript, Java Server Page 기반
 - 프로젝트 기간: 2022.4 ~ 2022.7
 - 역할: 웹 개발 팀원, 프론트엔드 및 백엔드 개발
 - 성과: 임상적 불면증 진단 및 좋은 습관 안내 사이트 개발
@@ -48,7 +50,9 @@
 [불면증 자가진단 웹 사이트](https://github.com/971023als/jsp)
 
 ### 제품판매 사이트 🛒
-- 기술: HTML, CSS, JavaScript, Apache, MySQL, PHP
+- 기술: HTML, CSS, JavaScript, Apache,
+- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 - 프로젝트 기간: 2022.4 ~ 2022.7
 - 역할: 개인 프로젝트, 전체 프로세스 이해 및 개발
 - 성과: 웹 서버 구축 및 도메인으로 사이트 접속 가능하게 구현
