@@ -101,5 +101,5 @@
 🏠 주소: 대전 서구 도안동
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=971023als94&show_icons=true&theme=omni)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=971023als&show_icons=true&theme=omni)
 
