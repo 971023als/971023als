@@ -20,10 +20,10 @@
 ## ⚒️ Skills
 
 **Hard Skills** 💻
-- PHP(하)
-- Java Server Pages(하)
-- Shell 스크립트(하)
-- JavaScript(하)
+- PHP(하) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+- Java Server Pages(하) ![Java Server Pages](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white)
+- Shell 스크립트(하) ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- JavaScript(하) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Soft Skills** 🌟
 - 커뮤니케이션(상)
