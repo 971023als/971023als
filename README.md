@@ -49,7 +49,7 @@
 - 역할: 웹 개발 팀원, 프론트엔드 및 백엔드 개발
 - 성과: 임상적 불면증 진단 및 좋은 습관 안내 사이트 개발
 
-[불면증 자가진단 웹 사이트](https://github.com/971023als/jsp)
+[불면증 자가진단](https://github.com/971023als/jsp)
 
 ### 제품판매 사이트 🛒
 - HTML![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
