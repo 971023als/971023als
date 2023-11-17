@@ -8,8 +8,7 @@
 - 리눅스마스터 2급 (2022.4.1)
 - 정보처리기사 (2022.9.2)
 - 네트워크 관리사 2급 (2022.12.13)
-- SAA-C03 (2022.02.25)
-- [![AWS Certification Badge](https://img.shields.io/badge/AWS-Certification-blue)](https://www.credly.com/badges/9040d238-7e1d-4663-8a91-2c5319368d50/public_url)
+- SAA-C03 (2022.02.25) [![AWS Certification Badge](https://img.shields.io/badge/AWS-Certification-blue)](https://www.credly.com/badges/9040d238-7e1d-4663-8a91-2c5319368d50/public_url)
 
 
 ### 학력 🏫
