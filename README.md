@@ -78,8 +78,8 @@
 
 ## 💫 About me
 
-[티스토리 - 보안 직무 포트폴리오](https://59lee.tistory.com/?page=3)
-[깃허브 - 971023als](https://github.com/971023als)
+[![Blog](https://img.shields.io/badge/티스토리-보안%20직무%20포트폴리오-blue)](https://59lee.tistory.com/?page=3)
+[![GitHub](https://img.shields.io/badge/GitHub-971023als-lightgrey?style=flat&logo=github)](https://github.com/971023als)
 
 ## 🙋🏻 How I work
 
