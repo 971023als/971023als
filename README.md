@@ -32,10 +32,10 @@
 - 스케줄링(중)
 
 **Tools** 🛠️
-- Notion(중)
-- GitHub(하)
+- Notion(중) ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
+- GitHub(하) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 - VS Code (하)![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- Eclipse(하)
+- Eclipse(하) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 
 ## 👩🏻‍💻 프로젝트
 
@@ -50,7 +50,8 @@
 [불면증 자가진단 웹 사이트](https://github.com/971023als/jsp)
 
 ### 제품판매 사이트 🛒
-- 기술: HTML, CSS, JavaScript, Apache,
+- 기술: HTML, CSS, JavaScript,
+- Apache ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 - MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 - 프로젝트 기간: 2022.4 ~ 2022.7
