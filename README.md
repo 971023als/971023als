@@ -44,7 +44,7 @@
 - CSS![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - JavaScript![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - Eclipse ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-- Java Server Page 기반
+- Java Server Page![Java Server Page](https://img.shields.io/badge/-Java%20Server%20Page-007396?style=flat&logo=java&logoColor=white)
 - 프로젝트 기간: 2022.4 ~ 2022.7
 - 역할: 웹 개발 팀원, 프론트엔드 및 백엔드 개발
 - 성과: 임상적 불면증 진단 및 좋은 습관 안내 사이트 개발
@@ -64,13 +64,15 @@
 
 ### CLOUD 보안컨설팅 ☁️
 - 취약점 진단 및 AWS 보안 조치 제안
+- Shell 스크립트 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- AWS CLI ![AWS CLI](https://img.shields.io/badge/-AWS%20CLI-FF9900?style=flat&logo=amazonaws&logoColor=white)
 - 프로젝트 기간: 2022.11 ~ 2022.12
 - 역할: AWS 클라우드 마이그레이션, OS, DBMS, WEB 취약점 진단 및 조치
 - 성과: 종합 보안 지수 개선
 
 ### 보안 조치 자동화 🛡️
 - 리눅스 설정파일 취약점 자동화 도구 개발
-- 기술: Shell 스크립트(하) ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- 기술: Shell 스크립트 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 - 프로젝트 기간: 2023.1 ~ 2023.2
 - 역할: 진단 스크립트 개발 및 조치, 복구 스크립트 검증
 - 성과: 주요통신기반시설 취약점 가이드 기반 개선
