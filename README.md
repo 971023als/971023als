@@ -62,6 +62,8 @@
 - 역할: 개인 프로젝트, 전체 프로세스 이해 및 개발
 - 성과: 웹 서버 구축 및 도메인으로 사이트 접속 가능하게 구현
 
+[제품판매 사이트팅](https://github.com/971023als/oldphp)
+
 ### CLOUD 보안컨설팅 ☁️
 - 취약점 진단 및 AWS 보안 조치 제안
 - Shell 스크립트 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -69,6 +71,8 @@
 - 프로젝트 기간: 2022.11 ~ 2022.12
 - 역할: AWS 클라우드 마이그레이션, OS, DBMS, WEB 취약점 진단 및 조치
 - 성과: 종합 보안 지수 개선
+
+[CLOUD 보안컨설팅](https://github.com/971023als/php)
 
 ### 보안 조치 자동화 🛡️
 - 리눅스 설정파일 취약점 자동화 도구 개발
