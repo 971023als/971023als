@@ -65,7 +65,7 @@
 
 ##
 
-### 3. CLOUD 보안컨설팅 ☁️
+### 3. Ogani 보안컨설팅 ☁️
 - 취약점 진단 및 AWS 보안 조치 제안
 - Shell 스크립트 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 - AWS CLI ![AWS CLI](https://img.shields.io/badge/-AWS%20CLI-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -125,6 +125,8 @@
 - 웹사이트를 통한 공단 서비스의 접근성 및 인지도 향상
 - 사용자 만족도 증가 및 웹 트래픽 증가
 - 공단의 디지털 전환 및 온라인 존재감 강화
+
+[밥누리진흥공단](https://github.com/971023als/bobnuri)  
 
 ##
 
