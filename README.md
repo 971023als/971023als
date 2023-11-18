@@ -11,10 +11,7 @@
 - SAA-C03 (2022.02.25) [![AWS Certification Badge](https://img.shields.io/badge/AWS-Certification-blue)](https://www.credly.com/badges/9040d238-7e1d-4663-8a91-2c5319368d50/public_url)
 
 ### 학력 🏫
-- 한남대학교 컴퓨터공학과 (2016.03 - 현재)
-
-### 교내 활동 🛡️
-- 히스트 정보보호동아리, 스터디 관리 담당 (2020.10 - 현재)
+- 한남대학교 컴퓨터공학과 (2016.03 - 2024.02)
 
 ## ⚒️ Skills
 
@@ -62,7 +59,7 @@
 - 역할: 개인 프로젝트, 전체 프로세스 이해 및 개발
 - 성과: 웹 서버 구축 및 도메인으로 사이트 접속 가능하게 구현
 
-[제품판매 사이트팅](https://github.com/971023als/oldphp)
+[제품판매 사이트](https://github.com/971023als/oldphp)
 
 ### CLOUD 보안컨설팅 ☁️
 - 취약점 진단 및 AWS 보안 조치 제안
@@ -81,7 +78,14 @@
 - 역할: 진단 스크립트 개발 및 조치, 복구 스크립트 검증
 - 성과: 주요통신기반시설 취약점 가이드 기반 개선
 
-  
+[ubuntu 취약점 진단](https://github.com/971023als/ubunut-vul)
+
+[centos 취약점 진단](https://github.com/971023als/centos-vul)
+
+[ubuntu 취약점 조치](https://github.com/971023als/ubud)
+
+[centos 취약점 조치](https://github.com/971023als/ced)  
+
 
 ### BoB SiMD 취약점 분석 및 개인정보 보호 진단
 - SiMD(Software in Medical device) 산업 환경 조성
