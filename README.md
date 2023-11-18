@@ -104,7 +104,7 @@
 - Apache ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 - MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-- **프로젝트 기간**: 2023년 7월 ~ 2023년 8월)
+- **프로젝트 기간**: 2023년 7월 ~ 2023년 8월
 
 ## 주요 기능 및 특징
 
