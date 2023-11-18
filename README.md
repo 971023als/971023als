@@ -36,7 +36,7 @@
 
 ## 👩🏻‍💻 프로젝트
 
-### 불면증 자가진단 웹 개발 💤
+### 1. 불면증 자가진단 웹 개발 💤
 - HTML![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - CSS![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - JavaScript![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -50,7 +50,7 @@
 
 ##
 
-### 제품판매 사이트 🛒
+### 2. 제품판매 사이트 🛒
 - HTML![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - CSS![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - JavaScript![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -63,7 +63,9 @@
 
 [제품판매 사이트](https://github.com/971023als/oldphp)
 
-### CLOUD 보안컨설팅 ☁️
+##
+
+### 3. CLOUD 보안컨설팅 ☁️
 - 취약점 진단 및 AWS 보안 조치 제안
 - Shell 스크립트 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 - AWS CLI ![AWS CLI](https://img.shields.io/badge/-AWS%20CLI-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -73,7 +75,9 @@
 
 [CLOUD 보안컨설팅](https://github.com/971023als/php)
 
-### 보안 조치 자동화 🛡️
+##
+
+### 4. 보안 조치 자동화 🛡️
 - 리눅스 설정파일 취약점 자동화 도구 개발
 - 기술: Shell 스크립트 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 - 프로젝트 기간: 2023.1 ~ 2023.2
@@ -88,8 +92,9 @@
 
 [centos 취약점 조치](https://github.com/971023als/ced)  
 
+## 
 
-### 밥누리진흥공단 설립 계획서
+### 5. 밥누리진흥공단 설립 프로젝트
 
 #### 회사 개요
 - **설립 일자**: 2021년 7월 17일
@@ -115,10 +120,15 @@
 - **DBA**: 데이터베이스 관리 및 유지보수
 - **보안 담당자**: 보안 관리 및 조치
 
+##
 
 
 
-### BoB SiMD 취약점 분석 및 개인정보 보호 진단
+
+
+##
+
+### 7. BoB SiMD 취약점 분석 및 개인정보 보호 진단
 - SiMD(Software in Medical device) 산업 환경 조성
 - 프로젝트 기간: 2023.10 ~ 2023.12
 - 역할: SiMD 기기 및 원격 의료기기 취약점 분석
