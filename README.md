@@ -10,23 +10,6 @@
 - 네트워크 관리사 2급 (2022.12.13)
 - SAA-C03 (2022.02.25) [![AWS Certification Badge](https://img.shields.io/badge/AWS-Certification-blue)](https://www.credly.com/badges/9040d238-7e1d-4663-8a91-2c5319368d50/public_url)
 
-### 학력 🏫
-- 한남대학교 컴퓨터공학과 (2016.03 - 2024.02)
-
-## ⚒️ Skills
-
-### Hard Skills 💻
-- PHP (초급) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-- Java Server Pages (초급) ![JSP](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white)
-- Shell 스크립트 (초급) ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-- JavaScript (초급) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### Soft Skills 🌟
-- 커뮤니케이션 (상)
-- 리더십 (상)
-- 문제 해결 능력 (상)
-- 스케줄링 (중)
-
 ### Tools 🛠️
 - Notion (중급) ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
 - GitHub (초급) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
@@ -128,65 +111,11 @@
 
 [밥누리진흥공단](https://github.com/971023als/bobnuri)  
 
-##
-
-#### 6. 밥오더 컨설팅 프로젝트(BoB 12기 보안컨설팅)
-
-1. **사전준비**
-   - 컨설팅 수행계획서: 프로젝트의 목표, 범위, 일정, 리소스를 정의하는 문서.
-   - 컨설팅 방법론: 프로젝트의 접근 방식과 방법론을 담은 문서.
-   - 컨설팅 WBS: 작업 분류 및 조직화를 위한 구조 문서.
-
-2. **위험분석 - 개인정보보호 관리체계 수립**
-   - 개인정보 수집, 이용 동의서: 고객의 개인정보 수집에 대한 동의 양식.
-   - 개인정보 내부 관리계획: 내부에서 개인정보를 안전하게 관리하기 위한 계획서.
-   - 개인정보보호 교육계획서: 직원들의 개인정보보호에 대한 교육 계획 문서.
-
-3. **위험분석 - 네트워크보안 강화**
-   - 네트워크보안지침: 네트워크 보안을 위한 지침서.
-   - VPN 계정 사용 신청서: VPN 접근을 위한 계정 사용 신청 양식.
-   - 네트워크구성도: 회사의 네트워크 구성을 나타내는 도면.
-
-4. **위험분석 - 물리보안 강화**
-   - 물리보안지침: 물리적 보안에 대한 지침서.
-   - 통제구역 안내판 예시: 통제구역에 설치될 안내판 예시.
-   - 출입 신청 절차: 통제구역에 출입하기 위한 절차 문서.
-
-5. **위험분석 - 자산 관리**
-   - 공장자산 관리 지침서: 공장 내 자산 관리에 대한 지침서.
-   - 문서자산 코드 부여 기준: 문서 자산에 부여될 코드의 기준서.
-   - 정보보호자산 목록: 정보보호와 관련된 자산 목록.
-
-6. **보호대책**
-   - 개인정보보호 컨설팅 결과보고서: 개인정보보호 관련 컨설팅 결과를 담은 보고서.
-   - 네트워크보안 컨설팅 결과보고서: 네트워크 보안 강화를 위한 컨설팅 결과 보고서.
-   - 물리보안 컨설팅 결과보고서: 물리보안 강화를 위한 컨설팅 결과 보고서.
-
-7. **컨설팅 종료**
-   - 컨설팅 산출물 목록: 프로젝트 종료 시 생성된 모든 산출물의 목록.
-   - 최종 결과 보고서: 프로젝트의 최종 결과를 요약하는 보고서.
-   - 컨설팅 결과 발표 자료: 프로젝트 결과를 발표하기 위한 자료.
-
-
-##
-
-### 7. BoB SiMD 취약점 분석 및 개인정보 보호 진단
-- SiMD(Software in Medical device) 산업 환경 조성
-- 프로젝트 기간: 2023.10 ~ 2023.12
-- 역할: SiMD 기기 및 원격 의료기기 취약점 분석
-- 예상 성과: SiMD 및 원격 의료기기 진단 체크리스트 제작
 
 ## 💫 About me
 
 [![Blog](https://img.shields.io/badge/티스토리-보안%20직무%20포트폴리오-blue)](https://59lee.tistory.com/?page=3)
 [![GitHub](https://img.shields.io/badge/GitHub-971023als-lightgrey?style=flat&logo=github)](https://github.com/971023als)
-
-## 🙋🏻 How I work
-
-- 목표 달성도 중요하지만 일의 과정에서 재미를 찾는 편이에요.
-- 회사와 세상에 긍정적 영향을 주는 일은 그 자체로 동기부여가 됩니다.
-- 문제가 생겨도 그 상황 안에서 일을 진행할 수 있는 방향을 찾습니다.
-- 함께 정한 기한은 반드시 지키려고 노력해요.
 
 ## 👋 Contact
 
