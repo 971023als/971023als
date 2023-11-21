@@ -13,7 +13,6 @@
 ### 1. 불면증 자가진단 웹 개발(2022.4 ~ 2022.7) 💤
 - HTML![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - CSS![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- JavaScript![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - Eclipse ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 - Java Server Page![Java Server Page](https://img.shields.io/badge/-Java%20Server%20Page-007396?style=flat&logo=java&logoColor=white)
 - 역할: 웹 개발 팀원, 프론트엔드 및 백엔드 개발
@@ -24,6 +23,7 @@
 ##
 
 ### 2. 제품판매 사이트(2022.4 ~ 2022.7) 🛒
+- JavaScript![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - Apache ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 - MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
