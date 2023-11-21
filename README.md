@@ -73,14 +73,8 @@
 - Apache ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 - MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-## 주요 기능 및 특징
-
-- 직관적인 정보 제공과 안정적인 데이터 및 서버 관리.
-
-## 프로젝트 성과
-
-- 웹사이트 접근성 향상과 사용자 만족도 증진.
+- 주요 기능 및 특징:직관적인 정보 제공과 안정적인 데이터 및 서버 관리.
+- 프로젝트 성과: 웹사이트 접근성 향상과 사용자 만족도 증진.
 
 [밥누리진흥공단](https://github.com/971023als/bobnuri)  
 
