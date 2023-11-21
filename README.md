@@ -8,12 +8,6 @@
 - 네트워크 관리사 2급 (2022.12.13)
 - SAA-C03 (2022.02.25) [![AWS Certification Badge](https://img.shields.io/badge/AWS-Certification-blue)](https://www.credly.com/badges/9040d238-7e1d-4663-8a91-2c5319368d50/public_url)
 
-### Tools 🛠️
-- Notion (중급) ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
-- GitHub (초급) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-- VS Code (초급) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- Eclipse (초급) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-
 ## 👩🏻‍💻 프로젝트
 
 ### 1. 불면증 자가진단 웹 개발 💤
