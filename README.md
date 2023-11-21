@@ -1,7 +1,5 @@
 # 안녕하세요, 이민형입니다. 👋
 
-컴퓨터공학과 재학 중에 웹 개발과 시큐어코딩을 공부하며, 보안 컨설팅에도 관심을 가지고 있습니다.
-
 ## 🔎 Profile
 
 ### 자격증 📜
@@ -15,7 +13,6 @@
 - GitHub (초급) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 - VS Code (초급) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 - Eclipse (초급) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-
 
 ## 👩🏻‍💻 프로젝트
 
@@ -96,13 +93,6 @@
 - **데이터 관리**: MySQL을 사용하여 데이터를 안정적으로 관리합니다.
 - **서버 구성**: Apache 서버를 통해 웹 페이지의 안정적인 호스팅을 지원합니다.
 
-## 역할 및 책임
-
-- 웹사이트의 전체적인 구조 설계 및 개발
-- 사용자 인터페이스 설계 및 구현
-- 데이터베이스 관리 및 백엔드 로직 개발
-- 서버 설정 및 유지 관리
-
 ## 프로젝트 성과
 
 - 웹사이트를 통한 공단 서비스의 접근성 및 인지도 향상
@@ -117,10 +107,7 @@
 [![Blog](https://img.shields.io/badge/티스토리-보안%20직무%20포트폴리오-blue)](https://59lee.tistory.com/?page=3)
 [![GitHub](https://img.shields.io/badge/GitHub-971023als-lightgrey?style=flat&logo=github)](https://github.com/971023als)
 
-## 👋 Contact
-
 📧 이메일: [971023als@naver.com](mailto:971023als@naver.com)
-🏠 주소: 대전 서구 도안동
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=971023als&show_icons=true&theme=omni)
