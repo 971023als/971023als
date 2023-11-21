@@ -84,8 +84,6 @@
 [![Blog](https://img.shields.io/badge/티스토리-보안%20직무%20포트폴리오-blue)](https://59lee.tistory.com/?page=3)
 [![GitHub](https://img.shields.io/badge/GitHub-971023als-lightgrey?style=flat&logo=github)](https://github.com/971023als)
 
-📧 이메일: [971023als@naver.com](mailto:971023als@naver.com)
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=971023als&show_icons=true&theme=omni)
 
